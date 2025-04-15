@@ -25,3 +25,5 @@ git status = check git status
 git add = untracked to stage 
 git commit -m "text" =stage to tarck 
 git restore = restore file 
+
+this is some mnew chyanges 
