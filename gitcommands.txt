@@ -19,3 +19,9 @@ git status
  git status 
  git restore testing.py
   git status
+
+  git init = inside git 
+git status = check git status 
+git add = untracked to stage 
+git commit -m "text" =stage to tarck 
+git restore = restore file 
